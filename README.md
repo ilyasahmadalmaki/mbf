@@ -1,5 +1,8 @@
-Usage / Cara Penggunaan : python2 mbf.py
+Hack Facebook Masal!
 
-Requirements : mechanize
+Clone code di: https://github.com/ilyasahmadalmaki/mbf/
+Program: Python 3.7
 
-This tools is Backup From pirmansx
+Credits: Viilyzagozy
+Team   : Dunia Hacker Indonesia [DHI]
+Recode : Legal
